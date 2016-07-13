@@ -2,6 +2,8 @@
 
 Simple soic-8 opamp prototyping board for use with a breadboard. 
 
+![board render](https://cloud.githubusercontent.com/assets/1520517/16807450/c086a3a8-4918-11e6-867a-71fc498bac14.png)
+
 Copyright (c) 2016 Thomas Hopman
 
 This documentation describes Open Hardware and is licensed under the
